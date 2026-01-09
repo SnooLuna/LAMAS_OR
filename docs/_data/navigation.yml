@@ -1,6 +1,16 @@
+## For Github deployment
 - name: Home
-  link: /
+  link: /LAMAS/
 - name: About
-  link: /about.html
+  link: /LAMAS/about.html
 - name: Theory
-  link: /theory.html
+  link: /LAMAS/theory.html
+
+
+## For local testing
+# - name: Home
+#   link: /
+# - name: About
+#   link: /about.html
+# - name: Theory
+#   link: /theory.html

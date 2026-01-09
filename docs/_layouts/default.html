@@ -11,7 +11,12 @@
     {% seo %}
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <section class="navbar">
+      {% include title.html %}
+      {% include navigation.html %}
+    </section>
+    <section class="contentBox">
+      {{ content }}
+    </section>
   </body>
 </html>

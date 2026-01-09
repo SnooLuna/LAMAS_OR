@@ -1,3 +1,70 @@
-.current {
-  color: green;
+body { 
+  font-family: "Segoe UI", sans-serif; 
+  background: #ecf0f6; 
+  margin:0; 
+}
+
+.navbar {
+  position: sticky;
+  display: inline-block;
+  top: 12px;
+  bottom: 12px;
+  left: 12px;
+  max-width: 18%;
+  height: 100%;
+  background-color: #bdd5f8;
+  border-radius: 21px;
+}
+
+.navbar nav {
+  margin: 30px auto;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.navbar .site-nav ul {
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.navbar .site-nav a {
+  display: block;
+  padding: 12px 20px;
+  margin: 3px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.navbar .site-nav a:hover, .site-nav a.current {
+  background: #4085ed;
+  color: #fff;
+}
+
+.navbar .titleBox {
+  text-align: center;
+  margin: 12px;
+  padding: 12px;
+  background-color: #b1ccf6;
+  border-radius: 15px;
+}
+
+.navbar .titleBox .title {
+  font-size: 24px;
+  padding-left: 0;
+  padding-top: 10px;
+  margin: 1px;
+}
+
+.navbar .titleBox .group {
+  font-size: 32px;
+  padding:0;
+  margin: 1px;
+}
+
+.contentBox {
+    display: inline-block;
+    padding: 50px;
 }

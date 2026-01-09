@@ -2,8 +2,15 @@
 
 source "https://rubygems.org"
 
+gem "base64"
+gem "bigdecimal"
+gem "kramdown-parser-gfm"
+gem "logger"
+gem "fiddle"
+
 # gem "rails"
 # gem "jekyll"
+gem "just-the-docs"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
