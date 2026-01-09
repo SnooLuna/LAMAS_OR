@@ -3,7 +3,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - github-pages
-  
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 defaults:
   - scope:
       path: ""

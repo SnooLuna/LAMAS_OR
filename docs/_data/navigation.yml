@@ -2,7 +2,7 @@
 - name: Home
   link: /LAMAS/
 - name: About
-  link: https://snooluna.github.io/LAMAS/about.html
+  link: /LAMAS/about.html
 - name: Introduction
   link: /LAMAS/intro.html
 - name: Theoretical approach
