@@ -1,5 +1,6 @@
 ---
 title: About
+url: /LAMAS/about.html
 ---
 # About page
 
