@@ -13,6 +13,7 @@ gem "fiddle"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
+  gem "jekyll-sass-converter"
   gem "jekyll-feed"
   gem "jekyll-seo-tag"
 end
