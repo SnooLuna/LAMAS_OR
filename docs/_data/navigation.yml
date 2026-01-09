@@ -1,24 +1,24 @@
 ## For Github deployment
-# - name: Home
-#   link: /LAMAS/
-# - name: About
-#   link: /LAMAS/about.html
-# - name: Introduction
-#   link: /LAMAS/intro.html
-# - name: Theoretical approach
-#   link: /LAMAS/approach.html
-# - name: Implementation
-#   link: /LAMAS/impl.html
+- name: Home
+  link: /LAMAS/
+- name: About
+  link: /LAMAS/about.html
+- name: Introduction
+  link: /LAMAS/intro.html
+- name: Theoretical approach
+  link: /LAMAS/approach.html
+- name: Implementation
+  link: /LAMAS/impl.html
 
 
 ## For local testing
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Introduction
-  link: /intro.html
-- name: Theoretical approach
-  link: /approach.html
-- name: Implementation
-  link: /impl.html
+# - name: Home
+#   link: /
+# - name: About
+#   link: /about.html
+# - name: Introduction
+#   link: /intro.html
+# - name: Theoretical approach
+#   link: /approach.html
+# - name: Implementation
+#   link: /impl.html
