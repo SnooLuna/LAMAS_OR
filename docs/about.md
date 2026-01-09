@@ -6,11 +6,11 @@ title: About
 This site is made for Group OR's LAMAS final project.
 
 ## Work division so far
-**Tjeerd**: Theory and writing (first version of "Introduction" and "Theoretical Approach")
+**Tjeerd**: Theory and writing ("Introduction" and "Theoretical Approach")
 
-**Niels**: Solver
+**Niels**: Solver and its explanation.
 
-**Eliane**: Creating the website and rewriting Introduction and Theoretical Approach.
+**Eliane**: Creating the website and slight rewriting of Introduction and formatting Theoretical Approach.
 
 All: Find and explore topic
 
