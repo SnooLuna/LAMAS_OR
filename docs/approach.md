@@ -139,11 +139,11 @@ jar, but they don't know in what order they went for a cookie. After
 Alex took a cookie from the jar she saw an odd number of cookies. After
 Bob took a cookie from the jar he saw an even number of cookies. Given
 that Bob knows that Alex knows that there are less than 5 cookies in the
-jar, how many cookies are maximally in the jar?**\
-[This riddle does not account for the fact that Bob could also have seen
+jar, how many cookies are maximally in the jar?**
+This riddle does not account for the fact that Bob could also have seen
 5 cookies according to the Kripke Model and that for Alex there could be
 0 cookies in the jar, so maybe we should modify or Kripke model to an
-infinite line?]{style="color: red"}\
+infinite line?
 This riddle can be solved by reasoning in the following way. If Bob
 knows that Alex knows that there are less than 5 cookies in the jar, he
 must know for certain that Alex saw 1 or 3 cookies when she looked
