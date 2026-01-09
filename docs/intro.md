@@ -1,6 +1,5 @@
 ---
 title: Introduction
-url: /LAMAS/intro.html
 ---
 
 # Topic Introduction

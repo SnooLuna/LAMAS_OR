@@ -1,6 +1,5 @@
 ---
 title: Theoretical approach
-url: /LAMAS/approach.html
 ---
 
 # First approach, unique world as answer in reflexive Kripke model

@@ -1,6 +1,5 @@
 ---
 title: Implementation
-url: /LAMAS/impl.html
 ---
 
 # Write here about the Solver
