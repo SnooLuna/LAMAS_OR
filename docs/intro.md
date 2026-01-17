@@ -2,6 +2,8 @@
 title: Introduction
 ---
 
+This should have a detailed introduction section with references and everything, introduce all 3 approaches we have.
+
 # Topic Introduction
 For this project we will try to construct a riddle which showcases how many orders of Theory of Mind someone comprehends based on their final answer. This can be very useful when investigating how humans process riddles for higher theory of mind. We can formalize this in the following research question.
 

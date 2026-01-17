@@ -1,12 +1,18 @@
 ## For Github deployment
 - name: Home
-  link: /LAMAS/
+  link: /LAMAS_OR/
 - name: Introduction
-  link: /LAMAS/intro.html
-- name: Theoretical approach
-  link: /LAMAS/approach.html
-- name: Implementation
-  link: /LAMAS/impl.html
+  link: /LAMAS_OR/intro.html
+- name: First approach
+  link: /LAMAS_OR/1approach.html
+- name: Second approach
+  link: /LAMAS_OR/2approach.html
+- name: Solver
+  link: /LAMAS_OR/impl.html
+- name: Conclusion
+  link: /LAMAS_OR/conclusion.html
+- name: References
+  link: /LAMAS_OR/references.html
 
 
 ## For local testing
@@ -14,7 +20,13 @@
 #   link: /
 # - name: Introduction
 #   link: /intro.html
-# - name: Theoretical approach
-#   link: /approach.html
-# - name: Implementation
+# - name: First approach
+#   link: /1approach.html
+# - name: Second approach
+#   link: /2approach.html
+# - name: Solver
 #   link: /impl.html
+# - name: Conclusion
+#   link: /conclusion.html
+# - name: References
+#   link: /references.html

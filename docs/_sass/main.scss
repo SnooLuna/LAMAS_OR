@@ -18,6 +18,8 @@ body {
 .navbar nav {
   margin: 30px auto;
   padding: 12px;
+  top: 12px;
+  bottom: 72%;
   border-radius: 8px;
 }
 
@@ -56,6 +58,8 @@ body {
   padding: 12px;
   background-color: #b1ccf6;
   border-radius: 15px;
+  top: 0;
+  bottom: 90%;
 }
 
 .navbar .titleBox .title {
@@ -71,8 +75,18 @@ body {
   margin: 1px;
 }
 
+.navbar .contact {
+  position: absolute;
+  font-size: small;
+  margin: 12px;
+  padding: 12px;
+  top: 72%;
+  bottom: 12px;
+}
+
 .contentBox {
-    margin-left: 18%;
+    margin-left: 19%;
+    margin-right: 5%;
     display: inline-block;
     padding: 28px;
 }

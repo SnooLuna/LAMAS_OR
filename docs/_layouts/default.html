@@ -7,6 +7,8 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/LAMAS/assets/css/styles.css"> {%comment%} remove /LAMAS before link for local testing {%endcomment%}
+    <script src="https://kit.fontawesome.com/5fb7fcc0e3.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
     {% feed_meta %}
     {% seo %}
   </head>
@@ -14,6 +16,7 @@
     <section class="navbar">
       {% include title.html %}
       {% include navigation.html %}
+      {% include contact.html %}
     </section>
     <section class="contentBox">
       {{ content }}

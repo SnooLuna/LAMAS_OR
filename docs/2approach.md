@@ -1,10 +1,6 @@
 ---
-title: Theoretical approach
+title: Second approach
 ---
-
-# First approach, unique world as answer in reflexive Kripke model
-  
-The first and most logical approach to this problem is to try and derive a reflexive Kripke model with a set of worlds $S$, a specified truth validation $\pi$ and a relations $R_A$ and $R_B$. Then we could try to construct a public announcement $\phi$, such that $K_B\phi$, $K_AK_B\phi$, $K_BK_AK_B\phi$ and $K_AK_BK_AK_B\phi$ all lead to unique different worlds, which would then be the unique answers to our riddle. However, we can prove that this is impossible even for two layers. We will prove this with a contradiction. Assume that it is possible that two consecutive 'layers' result in two unique distinct worlds. Consider a Kripke model $M$ and a logical formula of the form $\phi = K_BK_A \ldots K_B \psi$. Here $\psi$ is some other logical formula. Now we will assume that $\phi$ is only true in one unique world $v_1$ and $K_A\phi$ is only true in one unique world $v_2$ with $v_1 \neq v_2$. Now by the definition of $K_A$ that for all worlds $w$ it holds that $$(M,w) \models K_A \phi \quad \text{iff} \quad \text{for all } t \in S \text{ such that } w R_A t, \text{ we have that }\; (M,t) \models \phi$$ However, since we have already assumed that $\phi$ is only true in world $v_1$, we see that $$(M,w) \models K_A \phi \quad \text{iff} \quad  w \in S \text{ such that the only $A$ relation of $w$ is } v_1$$ However, since we are looking at a reflexive Kripke model we know that $v_2R_Av_2$. Since $v_2 \neq v_1$ this automatically implies that $(M,v_2) \not\models K_A \phi$, which is a contradiction to what we assumed and therefore it is not possible to get two unique different worlds as answers for two consecutive 'layers'.   
 
 # Second approach, multiple worlds, unique answer
   
