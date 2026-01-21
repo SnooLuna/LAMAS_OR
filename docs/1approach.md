@@ -13,7 +13,7 @@ of this approach, we still wanted to include it in since it gives some
 intuition into the direction of a model and assumptions that would
 work.\
 
-## Assumptions {#assumptions .unnumbered}
+## Assumptions
 
 -   **Agents:** We will assume two agents $A$ and $B$.
 
