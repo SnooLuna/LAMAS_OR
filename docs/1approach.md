@@ -52,13 +52,17 @@ satisfies the assumptions, we know that $\varphi$ is only true in one
 unique world $v_1$ and $K_A\varphi$ is only true in one unique world
 $v_2$ with $v_1 \neq v_2$.\
 Now by the definition of $K_A$ that for all worlds $w$ it holds that
+
 $$(M,w) \models K_A \varphi
 \quad \text{iff} \quad
 \text{for all } t \in S \text{ such that } w R_A t, \text{ we have that }\; (M,t) \models \varphi$$
+
 However, since we have already assumed that $\varphi$ is only true in
-world $v_1$, we see that $$(M,w) \models K_A \varphi
+world $v_1$, we see that 
+$$(M,w) \models K_A \varphi
 \quad \text{iff} \quad
  w \in S \text{ such that the only $A$ relation of $w$ is } v_1$$
+ 
 However, since we are looking at a reflexive Kripke model we know that
 $v_2R_Av_2$. Since $v_2 \neq v_1$ this automatically implies that
 $(M,v_2) \not\models K_A \varphi$, which is a contradiction to what we
