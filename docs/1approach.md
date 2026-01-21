@@ -11,7 +11,7 @@ to be too strong and we could actually prove that no desired riddle
 could exists with our assumed assumptions. Although no riddle came out
 of this approach, we still wanted to include it in since it gives some
 intuition into the direction of a model and assumptions that would
-work.\
+work.
 
 ## Assumptions
 
