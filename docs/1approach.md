@@ -59,6 +59,7 @@ $$(M,w) \models K_A \varphi
 
 However, since we have already assumed that $\varphi$ is only true in
 world $v_1$, we see that 
+
 $$(M,w) \models K_A \varphi
 \quad \text{iff} \quad
  w \in S \text{ such that the only $A$ relation of $w$ is } v_1$$
