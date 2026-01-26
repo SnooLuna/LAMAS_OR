@@ -6,6 +6,8 @@ title: References
 
 Cedegao, Z., Ham, H., & Holliday, W. H. (2021). Does Amy know Ben knows you know your cards? A computational model of higher-order epistemic reasoning. In Proceedings of the annual meeting of the cognitive science society (Vol. 43, No. 43). <https://escholarship.org/uc/item/2kk1h4b2>
 
+Hagberg, A. A., Schult, D. A., & Swart, P. J. (2008). Exploring network structure, dynamics, and function using networkx. In G. Varoquaux, T. Vaught, & J. Millman (Eds.), Proceedings of the 7th python in science conference (pp. 11–15).
+
 Minculescu, A. M. (2024). Cutting Cheryl's Birthday cake: Modeling theory of mind orders in public announcement logic [Master's Project Thesis, University of Groningen]. Student Theses Faculty of Science and Engineering. <https://fse.studenttheses.ub.rug.nl/id/eprint/33277>
 
 Minculescu, A., Top, J. D., Verbrugge, R., & de Weerd, H. (2025). How Well Do People Perform on Novel Logic Puzzles Requiring Higher-Order Theory of Mind?. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47). <https://escholarship.org/uc/item/5s63j43q>
