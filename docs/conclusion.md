@@ -4,15 +4,4 @@ title: Conclusion
 
 # Conclusion
 
-
-# Other ideas
-  
-Most of the other ideas focus on finding a solution such that every layer corresponds to a unique world. This could be done by changing the layers or changing the Kripke model.
-  
--   Maybe it is possible with unique worlds as answers when we focus on $K_B\phi$, $K_BK_AK_B\phi$ and $K_BK_AK_BK_AK_B\phi$ or $K_B\phi$, $K_BK_A\phi$ and $K_BK_AK_B\phi$
-  
--   We could also use $\neg K$ instead of $K$, maybe that changes things
-  
--   What about three agents $A$, $B$ and $C$? Could we then also construct these layers?
-  
--   What about non reflexive Kripke models, it should be possible to construct a Kripke world such that every layer corresponds with a unique world, but is it possible to construct a riddle from such a model?
+Our three different approaches to this problem have given us an insight into what a potential perfect riddle for this problem could look like. Through our first approach, we have proven that it is impossible to create a combination of announcement and worlds such that for each removed K-operator from the announcement, the product update of its action model and the original model would result in a different, unique world. After broadening our search, we found that a riddle was possible when stretching the limits of our requirements of the riddle. We found that when we added an announcement or clause about the worlds being ordered, we could find unique answers for each order of ToM. This riddle or variations of this riddle could be used in experiments needing to distinguish between different levels of ToM used by the participant solver. Then, our third, computational approach shows that there likely exists no such riddle within the constraints that we have set for our riddle here. Widening the constraints or optimizing the search by moving through all possibilities linearly instead of randomly would have a possibility of finding a solution to our proposed problem. For future research regarding our second approach, we have a few things we would have liked to considered. Firstly, we did not consider negations of K-operators in this approach, which might have led to a more elegant solution as this changes which worlds are eliminated. Secondly, we would've wanted to see if there were other possibilities were we to use more agents or propositional agents, as this would allow for more possible answers the solvers can give, which would mae it easier for there to be unique answers for each removed K-operator. Finally, we would've liked to explore whether models in another system besides S5 would have been viable. We assumed that any possible riddle should have been in S5, as we believed this to be the most intuitive approach to constructing a riddle, but with specific instructions, other models might be possible as well.
