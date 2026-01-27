@@ -15,3 +15,5 @@ Minculescu, A., Top, J. D., Verbrugge, R., & de Weerd, H. (2025). How Well Do Pe
 Premack D, Woodruff G. Does the chimpanzee have a theory of mind? Behavioral and Brain Sciences. 1978;1(4):515-526. doi:[10.1017/S0140525X00076512](https://doi.org/10.1017/S0140525X00076512)
 
 Top, J.D., Jonker, C., Verbrugge, R., de Weerd, H. (2024). Predictive Theory of Mind Models Based on Public Announcement Logic. In: Gierasimczuk, N., Velázquez-Quesada, F.R. (eds) Dynamic Logic. New Trends and Applications. DaLí 2023. Lecture Notes in Computer Science, vol 14401. Springer, Cham. doi:[10.1007/978-3-031-51777-8_6](https://doi.org/10.1007/978-3-031-51777-8_6)
+
+Van der Vaart, E., & Verbrugge, R. (2025). The riddle of consecutive numbers. Lecture presented in Logical Aspects of Multi-Agent Systems, University of Groningen.
