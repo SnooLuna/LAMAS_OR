@@ -47,8 +47,6 @@ It is pretty easy to transform the Kripke model to a riddle once we have found t
 
 **Given a jar with cookies. Alex and Bob both took one cookie from the jar, which is something they both know, but they don't know in what order they went for a cookie. After Alex took a cookie from the jar she saw an odd number of cookies. After Bob took a cookie from the jar he saw an even number of cookies. Given that Bob knows that Alex knows that there are less than five cookies in the jar, how many cookies are maximally in the jar?**
 
-This riddle does not account for the fact that Bob could also have seen five cookies according to the Kripke Model and that for Alex there could be zero cookies in the jar, so maybe we should modify or Kripke model to an infinite line?
-
 This riddle can be solved by reasoning in the following way. If Bob knows that Alex knows that there are less than five cookies in the jar, he must know for certain that Alex saw one or three cookies when Alex looked inside the jar. This means that when Bob looked inside the jar there could not have been four cookies since then Alex could potentially have seen five cookies. This means that there could maximally be two cookies in the jar when Bob looked inside the jar and therefore the maximum number of cookies inside the jar is two. Note that this riddle can be extended to any level of ToM that is satisfactory by just increasing the number of cookies.
 
 ## Consecutive numbers riddle
